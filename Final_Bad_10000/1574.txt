@@ -1,0 +1,2 @@
+READ_SMS
+SEND_SMS
